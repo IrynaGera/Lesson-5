@@ -1,0 +1,63 @@
+body,
+html {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0; 
+}
+* {
+    box-sizing: border-box;
+}
+.kasper {
+    padding: 120px 0 40px;
+    background-color: #121116;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+.title-holder {
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+ .title {
+    font-weight: 400;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+ .text2 {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Open Sans";
+}
+.icon {
+    text-align: center;
+    padding-bottom: 85px;
+}
+.typeoficon {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.typeoficon li {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+span {
+    color: #19c8fa;
+}
+p {
+    margin-bottom: o;
+    margin-top: 0;
+} 
+
